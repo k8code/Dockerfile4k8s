@@ -1,0 +1,3 @@
+FROM k8s.gcr.io/kube-controller-manager-amd64:v1.11.3
+MAINTAINER abramsz <abramsz@163.com>
+
